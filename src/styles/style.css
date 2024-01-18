@@ -1,0 +1,35 @@
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: linear-gradient(180deg, #0C0B15 0%, #0C0B15 41.92%);
+  /* background: linear-gradient(180deg, rgba(10, 54, 65, 0.9) 0%, #0C0B15 41.92%); */
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  /* background: linear-gradient(180deg, rgb(3, 18, 21) 0%, #0C0B15 41.92%); */
+}
+
+main {
+  width: 90%;
+  max-width: 800px;
+  margin: 32px auto;
+}
+
+club-list {
+  display: block;
+  margin-top: 32px;
+  width: 100%;
+  padding: 16px;
+}
+
+
+
+
+
+
