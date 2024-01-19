@@ -49,7 +49,7 @@ class Description extends HTMLElement {
         :host {
           display: block;
           color: #fff; /* Ubah warna teks menjadi putih */
-          background: linear-gradient(180deg, rgba(10, 54, 65, 0.9) 0%, #0C0B15 41.92%);
+          background: linear-gradient(180deg, rgb(10, 54, 65) 20%, #0C0B15 51.92%);
           padding: 20px;
         }
 
